@@ -1,5 +1,8 @@
 # project exploitation
 speech_recognition_model
+inputs
+outputs
+config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
